@@ -1,5 +1,10 @@
 # Handwritten Digit Recognition
 
+
+## 🎥 Demo Video
+
+[▶️ Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1opwUXqruQPWdrxatOmHbkEPsyE5yPplS/view?usp=sharing)
+
 This project uses a neural network built with TensorFlow to recognize handwritten digits.  
 Feed images of your own digits (PNG) into the **`digits/`** folder and the model will predict each digit.
 
